@@ -16,3 +16,7 @@ Para a execução deste projeto, foram empregadas as seguintes ferramentas:
 ## Instruções para Instalação e Uso
 
 Este projeto foi desenvolvido utilizando o Jupyter Notebook, com a extensão de arquivo .ipynb. O arquivo pode ser aberto tanto no Jupyter Notebook quanto no Google Colab, Visual Studio Code e outras IDEs disponíveis no mercado.
+
+## Desenvolvimento da Análise Exploratória
+A etapa de análise exploratória foi conduzida com base nas perguntas propostas pela Coodesh. Nesse processo, foram empregadas as bibliotecas Pandas e re (Expressões Regulares), especialmente adequadas para esse tipo de análise. Isso permitiu uma abordagem mais eficiente, resultando em uma redução significativa de linhas de código.
+Todo o código relevante e os comentários detalhados para cada questão estão disponibilizados no arquivo .ipynb. Essas seções do notebook foram cuidadosamente elaboradas para responder às questões específicas apresentadas no desafio.
